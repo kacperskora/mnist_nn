@@ -1,6 +1,5 @@
 NEURAL NETWORK PROJECT 
 
-Overwiew 
 This project implements a simple 2-layer neural network from scratch to classify handwritten numbers (MNIST dataset)
 - Input layer -> 784 neurons (28x28 flattened)
 - Hidden layer -> 10 neurons ReLU activated
